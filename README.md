@@ -1,6 +1,5 @@
 # My Website
+
 Very cool website description
 
-Now editing on update-readme branch :-)
-
-Updated locally!
+Updates made on master on GH before rebase
